@@ -1,7 +1,7 @@
 ---
-title: "My first essay"
+title: "My first blog"
 date: 2026-02-03
-categories: essay
+categories: blog
 ---
 
 This is my first blog for recording how I try to build a site and post my novel on it.
